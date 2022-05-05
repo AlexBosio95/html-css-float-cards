@@ -24,11 +24,13 @@ header{
 
 header h1{
     color: #e53170;
+    font-size: 2rem;
     font-family: 'Fredoka One', cursive;
 }
 
 header p{
     padding: 30px 0px;
+    font-size: 16px;
 }
 
 
@@ -64,12 +66,18 @@ header p{
 
 .c_right span{
     display: block;
+    font-size: 1rem;
 }
 
 
 .c_right a{
     text-decoration: none;
     color: #36c6e7;
+    font-size: 1rem;
+}
+
+.c_right h3{
+    font-size: 1rem;
 }
 
 
