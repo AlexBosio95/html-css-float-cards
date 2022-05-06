@@ -13,6 +13,7 @@
 body{
     background-color: white;
     width: 80%;
+    max-width: 1200px;
     margin: 0 auto;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
@@ -69,7 +70,6 @@ header p{
     font-size: 1rem;
 }
 
-
 .c_right a{
     text-decoration: none;
     color: #36c6e7;
@@ -79,9 +79,6 @@ header p{
 .c_right h3{
     font-size: 1rem;
 }
-
-
-
 
 
 
